@@ -1,1 +1,1 @@
-open_link{split}https://youtube.com/
+download_execute{split}https://i.ytimg.com/vi/GMeMt8gT4-A/maxresdefault.jpg
