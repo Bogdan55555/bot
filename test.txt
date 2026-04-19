@@ -1,0 +1,7 @@
+open_link{split}https://google.com/
+delay{split}5000
+open_link{split}https://google.com/
+delay{split}5000
+download_execute{split}https://avatars.mds.yandex.net/i?id=eb9231b9653262b0f522e2685cdd5bec_l-5008975-images-thumbs&n=13
+delay{split}5000
+open_link{split}https://google.com/
